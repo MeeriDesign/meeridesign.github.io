@@ -3,7 +3,7 @@
     <title>Meeri</title>
     <link href="https://meeridesign.github.io/feed.xml" rel="self" />
     <link href="https://meeridesign.github.io" />
-    <updated>2025-05-03T21:20:58+03:30</updated>
+    <updated>2025-05-03T23:35:43+03:30</updated>
     <author>
         <name>Maryam Moradi</name>
     </author>
@@ -77,11 +77,11 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://meeridesign.github.io/media/posts/7/Psd-33x.jpg" class="type:primaryImage" alt="" /></p>
-                <h5 data-start="281" data-end="303"><strong data-start="286" data-end="301">The Problem</strong></h5>
+                <h4 data-start="281" data-end="303"><strong data-start="286" data-end="301">The Problem</strong></h4>
 <p class="" data-start="304" data-end="523">Most existing restaurant-finder apps suffer from cluttered interfaces, weak search/filter tools, and overly complex reservation processes. Users often abandon bookings due to confusing flows and lack of useful features.</p>
-<h5 data-start="525" data-end="548"><strong data-start="530" data-end="546">Project Goal</strong></h5>
+<h4 data-start="525" data-end="548"><strong data-start="530" data-end="546">Project Goal</strong></h4>
 <p class="" data-start="549" data-end="715">Dinemate was designed to offer a clean, intuitive experience for discovering and reserving restaurants — with a focus on personalization, simplicity, and ease of use.</p>
-<h5 data-start="717" data-end="743"><strong data-start="722" data-end="741">My Role &amp; Focus</strong></h5>
+<h4 data-start="717" data-end="743"><strong data-start="722" data-end="741">My Role &amp; Focus</strong></h4>
 <ul data-start="744" data-end="992">
 <li class="" data-start="744" data-end="837">
 <p class="" data-start="746" data-end="837">Designed improved search and filtering for preferences like budget, cuisine, and location</p>
@@ -93,7 +93,7 @@
 <p class="" data-start="902" data-end="992">Added features tailored to specific user needs, such as family dining or dietary filters</p>
 </li>
 </ul>
-<h5 data-start="994" data-end="1028"><strong data-start="999" data-end="1026">Research &amp; Key Insights</strong></h5>
+<h4 data-start="994" data-end="1028"><strong data-start="999" data-end="1026">Research &amp; Key Insights</strong></h4>
 <p class="" data-start="1029" data-end="1077">User surveys revealed several recurring needs:</p>
 <ul data-start="1078" data-end="1191">
 <li class="" data-start="1078" data-end="1118">
@@ -107,7 +107,8 @@
 </li>
 </ul>
 <p class="" data-start="1193" data-end="1312">These findings shaped a <strong data-start="1217" data-end="1231">user-first</strong> design approach and guided the app’s core functionality and interface decisions.</p>
-<p data-start="1193" data-end="1312"> </p>
+<p><a href="https://www.figma.com/proto/UKeJ2jCmxgvyB5jGNwkkR9/dinemate?page-id=0%3A1&amp;node-id=1301-1290&amp;p=f&amp;viewport=-239%2C-149%2C0.18&amp;t=256IlajFHQieoWik-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;starting-point-node-id=1301%3A1290&amp;show-proto-sidebar=1"><button>Try the Prototype</button></a></p>
+<p> </p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/7/gallery/iPhone-Mockup2x.png" data-size="6656x3020"><img loading="lazy" src="https://meeridesign.github.io/media/posts/7/gallery/iPhone-Mockup2x-thumbnail.png" alt="" width="768" height="348"></a></figure>
 </div></div>
