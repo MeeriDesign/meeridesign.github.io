@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Meeri</title>
+    <link href="https://meeridesign.github.io/feed.xml" rel="self" />
+    <link href="https://meeridesign.github.io" />
+    <updated>2025-05-03T21:20:58+03:30</updated>
+    <author>
+        <name>Maryam Moradi</name>
+    </author>
+    <id>https://meeridesign.github.io</id>
+
+    <entry>
+        <title>The Future We Are Creating Poster</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/the-future-we-are-creating-poster.html"/>
+        <id>https://meeridesign.github.io/the-future-we-are-creating-poster.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/9/Poster_Frame_Mockup0.5x.png" medium="image" />
+            <category term="Poster Design"/>
+
+        <updated>2025-05-03T19:34:36+03:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Reverse Universe Posters</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/reverse-universe-posters.html"/>
+        <id>https://meeridesign.github.io/reverse-universe-posters.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/8/Poster-Mockup0.5x.png" medium="image" />
+            <category term="Poster Design"/>
+
+        <updated>2025-05-03T19:15:15+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://meeridesign.github.io/media/posts/8/Poster-Mockup0.5x.png" alt="" />
+                    This project was inspired by a childhood thought experiment: What if the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://meeridesign.github.io/media/posts/8/Poster-Mockup0.5x.png" class="type:primaryImage" alt="" /></p>
+                <p class="" data-start="263" data-end="475">This project was inspired by a childhood thought experiment: <em data-start="380" data-end="473">What if the roles of humans and animals were reversed, and animals held the dominant power?</em></p>
+<p class="" data-start="477" data-end="858">The result is a series of unsettling posters, some viewers have described them as disturbing or even horrifying. But perhaps that’s the point: to mirror the fear, suffering, and exploitation that animals might feel when faced with human dominance. This reversal invites viewers to confront the ethics of our relationship with animals from an unfamiliar, uncomfortable perspective.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/8/gallery/gorilla0.3x.png" data-size="3214x4500"><img loading="lazy" src="https://meeridesign.github.io/media/posts/8/gallery/gorilla0.3x-thumbnail.png" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/8/gallery/lion.png" data-size="4758x6662"><img loading="lazy" src="https://meeridesign.github.io/media/posts/8/gallery/lion-thumbnail.png" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/8/gallery/tiger0.3x0.3x.png" data-size="2924x4092"><img loading="lazy" src="https://meeridesign.github.io/media/posts/8/gallery/tiger0.3x0.3x-thumbnail.png" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/8/gallery/Poster-Mockup-20.5x.png" data-size="2000x1333"><img loading="lazy" src="https://meeridesign.github.io/media/posts/8/gallery/Poster-Mockup-20.5x-thumbnail.png" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dinemate Application Design</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/dinemate-application-design.html"/>
+        <id>https://meeridesign.github.io/dinemate-application-design.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/7/Psd-33x.jpg" medium="image" />
+            <category term="UI/UX design"/>
+            <category term="Typography"/>
+            <category term="Logo design"/>
+            <category term="Application design"/>
+
+        <updated>2025-05-03T12:53:34+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://meeridesign.github.io/media/posts/7/Psd-33x.jpg" alt="" />
+                    The Problem Most existing restaurant-finder apps suffer from cluttered interfaces, weak search/filter&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://meeridesign.github.io/media/posts/7/Psd-33x.jpg" class="type:primaryImage" alt="" /></p>
+                <h5 data-start="281" data-end="303"><strong data-start="286" data-end="301">The Problem</strong></h5>
+<p class="" data-start="304" data-end="523">Most existing restaurant-finder apps suffer from cluttered interfaces, weak search/filter tools, and overly complex reservation processes. Users often abandon bookings due to confusing flows and lack of useful features.</p>
+<h5 data-start="525" data-end="548"><strong data-start="530" data-end="546">Project Goal</strong></h5>
+<p class="" data-start="549" data-end="715">Dinemate was designed to offer a clean, intuitive experience for discovering and reserving restaurants — with a focus on personalization, simplicity, and ease of use.</p>
+<h5 data-start="717" data-end="743"><strong data-start="722" data-end="741">My Role &amp; Focus</strong></h5>
+<ul data-start="744" data-end="992">
+<li class="" data-start="744" data-end="837">
+<p class="" data-start="746" data-end="837">Designed improved search and filtering for preferences like budget, cuisine, and location</p>
+</li>
+<li class="" data-start="744" data-end="837">
+<p class="" data-start="746" data-end="837">Streamlined the reservation process for clarity and speed</p>
+</li>
+<li class="" data-start="900" data-end="992">
+<p class="" data-start="902" data-end="992">Added features tailored to specific user needs, such as family dining or dietary filters</p>
+</li>
+</ul>
+<h5 data-start="994" data-end="1028"><strong data-start="999" data-end="1026">Research &amp; Key Insights</strong></h5>
+<p class="" data-start="1029" data-end="1077">User surveys revealed several recurring needs:</p>
+<ul data-start="1078" data-end="1191">
+<li class="" data-start="1078" data-end="1118">
+<p class="" data-start="1080" data-end="1118">Interactive maps and table selection</p>
+</li>
+<li class="" data-start="1119" data-end="1151">
+<p class="" data-start="1121" data-end="1151">Menu previews before booking</p>
+</li>
+<li class="" data-start="1152" data-end="1191">
+<p class="" data-start="1154" data-end="1191">Child-friendly options for families</p>
+</li>
+</ul>
+<p class="" data-start="1193" data-end="1312">These findings shaped a <strong data-start="1217" data-end="1231">user-first</strong> design approach and guided the app’s core functionality and interface decisions.</p>
+<p data-start="1193" data-end="1312"> </p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/7/gallery/iPhone-Mockup2x.png" data-size="6656x3020"><img loading="lazy" src="https://meeridesign.github.io/media/posts/7/gallery/iPhone-Mockup2x-thumbnail.png" alt="" width="768" height="348"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Violence Against Women Poster</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/violence-against-women-poster.html"/>
+        <id>https://meeridesign.github.io/violence-against-women-poster.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/6/POSTER-MOCKUP-FILE-2.png" medium="image" />
+            <category term="Poster Design"/>
+            <category term="Illustration"/>
+
+        <updated>2025-05-02T23:53:10+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://meeridesign.github.io/media/posts/6/POSTER-MOCKUP-FILE-2.png" alt="" />
+                    This poster was created on March 8, International Women’s Day, as a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://meeridesign.github.io/media/posts/6/POSTER-MOCKUP-FILE-2.png" class="type:primaryImage" alt="" /></p>
+                <p class="" data-start="294" data-end="711">This poster was created on March 8, International Women’s Day, as a statement against violence toward women. Inspired by the “Woman, Life, Freedom” movement in Iran, the work raises awareness of the systemic abuse and injustice many women continue to face, especially in Iran, where women have been punished simply for showing their hair or demanding basic rights.</p>
+<p class="" data-start="713" data-end="869">One of the driving forces behind this design was the staggering global reality: every day, an average of 137 women are killed by a partner or family member.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/6/gallery/Artboard-24x-100.jpg" data-size="x"><img loading="lazy" src="https://meeridesign.github.io/media/posts/6/gallery/Artboard-24x-100-thumbnail.jpg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/6/gallery/A4-Paper-Mockup-2.png" data-size="4000x2666"><img loading="lazy" src="https://meeridesign.github.io/media/posts/6/gallery/A4-Paper-Mockup-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/6/gallery/Poster-Mockup-4.png" data-size="2164x2546"><img loading="lazy" src="https://meeridesign.github.io/media/posts/6/gallery/Poster-Mockup-4-thumbnail.png" alt="" width="768" height="904"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Patriarchy Poster</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/patriarchy-poster.html"/>
+        <id>https://meeridesign.github.io/patriarchy-poster.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/5/Urban-Poster-Mockup.png" medium="image" />
+            <category term="Poster Design"/>
+            <category term="Illustration"/>
+
+        <updated>2025-05-02T23:52:04+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://meeridesign.github.io/media/posts/5/Urban-Poster-Mockup.png" alt="" />
+                    For generations, girls have lived under the shadow of male guardianship and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://meeridesign.github.io/media/posts/5/Urban-Poster-Mockup.png" class="type:primaryImage" alt="" /></p>
+                <p class="" data-start="238" data-end="624">For generations, girls have lived under the shadow of male guardianship and patriarchal systems, often facing systemic oppression and the denial of their most basic rights. In countries like Afghanistan, many women are still denied education and forced into marriage, treated more as possessions than as individuals with autonomy.</p>
+<p class="" data-start="626" data-end="874">This poster symbolizes the imprisonment of women and girls within the suffocating framework of patriarchy. It reflects the harsh reality faced by those whose lives are shaped by outdated traditions, gender inequality, and institutionalized control.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/5/gallery/child4x-100.jpg" data-size="x"><img loading="lazy" src="https://meeridesign.github.io/media/posts/5/gallery/child4x-100-thumbnail.jpg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/5/gallery/Urban-Wall-Poster-Mockup.png" data-size="3000x2000"><img loading="lazy" src="https://meeridesign.github.io/media/posts/5/gallery/Urban-Wall-Poster-Mockup-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/5/gallery/Poster-Mockup-91.25x.png" data-size="2694x2995"><img loading="lazy" src="https://meeridesign.github.io/media/posts/5/gallery/Poster-Mockup-91.25x-thumbnail.png" alt="" width="768" height="854"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CrunchUp Nut Packaging Design</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/crunchup-nut-packaging-design.html"/>
+        <id>https://meeridesign.github.io/crunchup-nut-packaging-design.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/4/istockphoto-1812772540.png" medium="image" />
+            <category term="Typography"/>
+            <category term="Package Design"/>
+            <category term="Logo design"/>
+            <category term="Illustration"/>
+
+        <updated>2025-05-02T22:51:33+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://meeridesign.github.io/media/posts/4/istockphoto-1812772540.png" alt="" />
+                    CrunchUp is all about bold flavors and good vibes. The playful packaging&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://meeridesign.github.io/media/posts/4/istockphoto-1812772540.png" class="type:primaryImage" alt="" /></p>
+                <p class="" data-start="253" data-end="559">CrunchUp is all about bold flavors and good vibes. The playful packaging mixes real nut imagery with quirky digital collages, giving it a fun, fresh look that stands out. Whether you're at work or on the go, CrunchUp invites everyone to take a crunchy, colorful break.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/4/gallery/almond-2.png" data-size="2493x3697"><img loading="lazy" src="https://meeridesign.github.io/media/posts/4/gallery/almond-2-thumbnail.png" alt="CrunchUp Nut packaging design" width="768" height="1139"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/4/gallery/hazelnut-2.png" data-size="2276x3583"><img loading="lazy" src="https://meeridesign.github.io/media/posts/4/gallery/hazelnut-2-thumbnail.png" alt="CrunchUp Nut packaging design" width="768" height="1209"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/4/gallery/peanut-2.png" data-size="2241x3660"><img loading="lazy" src="https://meeridesign.github.io/media/posts/4/gallery/peanut-2-thumbnail.png" alt="CrunchUp Nut packaging design" width="768" height="1254"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/4/gallery/pattern1.5x2x-2.png" data-size="4590x2084"><img loading="lazy" src="https://meeridesign.github.io/media/posts/4/gallery/pattern1.5x2x-2-thumbnail.png" alt="CrunchUp Nut packaging design" width="768" height="349"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Capitano Coffee Packaging Design</title>
+        <author>
+            <name>Maryam Moradi</name>
+        </author>
+        <link href="https://meeridesign.github.io/capitano-coffee-packaging-design.html"/>
+        <id>https://meeridesign.github.io/capitano-coffee-packaging-design.html</id>
+        <media:content url="https://meeridesign.github.io/media/posts/2/istockphoto-1809262685.png" medium="image" />
+            <category term="Typography"/>
+            <category term="Package Design"/>
+            <category term="Logo design"/>
+            <category term="Illustration"/>
+
+        <updated>2025-05-02T13:34:05+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://meeridesign.github.io/media/posts/2/istockphoto-1809262685.png" alt="" />
+                    This coffee packaging project was my BA thesis, created to make Capitano&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://meeridesign.github.io/media/posts/2/istockphoto-1809262685.png" class="type:primaryImage" alt="" /></p>
+                <p class="" data-start="347" data-end="616">This coffee packaging project was my BA thesis, created to make Capitano stand out with bold illustrations and a unique color palette. The brand is inspired by a fictional captain, sailing in search of the world’s finest coffee.</p>
+<p class="" data-start="618" data-end="908">Each illustration tells part of his story and highlights a different brewing method. The visual style draws from 9th–10th century Nishapur ceramics, giving the brand a sense of cultural richness and authenticity. Bright colors and a clean white background make it eye-catching on the shelf.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/jhm1.5x-2.png" data-size="5022x4136"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/jhm1.5x-2-thumbnail.png" alt="capitano coffee packaging" width="768" height="633"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/436-v2-03-paper-shopping-bag-mockup2x-3.png" data-size="3841x3434"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/436-v2-03-paper-shopping-bag-mockup2x-3-thumbnail.png" alt="capitano coffee packaging" width="768" height="687"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/436-v2-02-paper-shopping-bag-mockup1.5x-2.png" data-size="3396x2884"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/436-v2-02-paper-shopping-bag-mockup1.5x-2-thumbnail.png" alt="capitano coffee packaging" width="768" height="652"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-01-copy-2.png" data-size="3500x2300"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-01-copy-2-thumbnail.png" alt="capitano coffee packaging" width="768" height="505"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-02-copy-2.png" data-size="3027x2046"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-02-copy-2-thumbnail.png" alt="capitano coffee packaging" width="768" height="519"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-03-2.png" data-size="2117x1757"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-03-2-thumbnail.png" alt="capitano coffee packaging" width="768" height="637"></a></figure>
+<figure class="gallery__item"><a href="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-042x-2.png" data-size="4497x4114"><img loading="lazy" src="https://meeridesign.github.io/media/posts/2/gallery/159-coffee-beans-pouch-mockup-042x-2-thumbnail.png" alt="capitano coffee packaging" width="768" height="703"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meeridesign.github.io/sitemap.xml
